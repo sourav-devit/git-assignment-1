@@ -1,4 +1,4 @@
-console.log("hello to JS");
+console.log("hello to Javascript");
     function buttonClicked() {
       alert("Button was clicked!");
     }
